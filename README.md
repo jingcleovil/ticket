@@ -5,8 +5,9 @@ The purpose of this project is to manage software development tasks, project sta
 
 Key Features
 ------------
-    1. Project must have sub project (e.g. Project Name: Acme, Sub Project: [Development, Documentation, Hardware]). Tasks must under sub project. If no sub project make a default sub project.
-    2. Git commit commands.
+
+1. Project must have sub project (e.g. Project Name: Acme, Sub Project: [Development, Documentation, Hardware]). Tasks must under sub project. If no sub project make a default sub project.
+2. Git commit commands.
 
 User Features
 ----------
