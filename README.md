@@ -13,16 +13,19 @@ User Features
 ----------
 
 __GENERAL__
+
     1. Able to login and register using facebook api or github.
     2. Forgot password.
 
 __USER__
+
     1. Able to join projects.
     2. Able to create, update, delete and complete the task.
     3. Able to create subtask.
     4. Able to done task via git commit.
 
 __ADMIN__
+
     1. Able to create, delete, update the project.
     2. Able to accept users who join the project.
     3. Able to create sub project.
